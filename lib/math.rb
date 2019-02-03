@@ -15,11 +15,11 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  return 5%3
+  return 8%2
 end
 
 def square_root(num)
-  Retrun Math.sqrt(16)
+  return Math.sqrt(16)
 end
 
 def order_of_operation(num1, num2, num3, num4)
